@@ -75,6 +75,12 @@
         </tbody>
     </table>
     <button><a href="add_product.php">ADD Product</a></button>
+
+    <!-- Button logout -->
+    <button style="background-color: red; color: aliceblue;">
+        <a href="logout.php">LOGOUT</a>
+    </button>
+
 </body>
 
 </html>

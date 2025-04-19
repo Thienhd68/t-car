@@ -31,7 +31,7 @@ if (isset($_POST["btn_edit"])) {
     <br />
     <br />
     <label for="">Edit </label><img src="assets/img/products/<?php echo $row["imgSP"]; ?>" width="120" />
-    <input type="file" name="edit_img" />
+    <input type="file" name="edit_img" required />
     <br />
     <br />
     <br />
